@@ -13,3 +13,5 @@ Lista de Comandos - Uma página que apresenta todos os comandos disponíveis do 
 Atualizações - Seção onde você pode acompanhar as últimas atualizações e novidades sobre o bot.
 
 Comunidade - Links e informações sobre como se juntar à nossa comunidade, incluindo servidores do "discord" e redes sociais.
+
+<a href="https://gabrielcamposb.github.io/Landing-Page/Html/" target="_blank">Link para a página do bot</a>
